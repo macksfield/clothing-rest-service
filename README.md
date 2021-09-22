@@ -1,6 +1,6 @@
 # Spring Boot / JPA / H2 Rest Service Demo
 
-##Testing with JUnit / Mockito
+## Testing with JUnit / Mockito
 
 Project built with Maven, and included Maven wrapper.
 
