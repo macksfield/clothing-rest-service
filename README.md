@@ -11,3 +11,7 @@ Project dependencies can be installed with:
 Project can be run with command:
 
 `./mvnw spring-boot:run`
+
+Tests can be run with:
+
+`./mvnw test`
